@@ -1,0 +1,4 @@
+/jaxrs-jquery/target/
+.idea
+*.iml
+.DS_Store

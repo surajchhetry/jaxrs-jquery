@@ -1,0 +1,52 @@
+/*
+ * Custom css
+ *
+ * @author  Krishna Prasad Timilsina
+ * @email   <bikranshu.t@gmail.com>
+ * @version 1.0
+ */
+
+/* ============== Custom Theme Start ================*/
+
+.sidebar-mini .sidebar-collapse .main-header .logo > .logo-mini {
+    margin-left: -43px;
+}
+
+.sidebar-mini .main-header .logo > .logo-mini {
+    margin-left: 40px;
+}
+
+.main-header a.logo span.logo-icon {
+    background: transparent url(../img/logo/logo.png) top 2px center no-repeat;
+    display: block;
+    height: 75px;
+    overflow: hidden;
+    text-indent: 100%;
+    width: 227px;
+}
+
+.main-header a.logo span.mini-logo-icon {
+    background: transparent url(../img/logo/logo.png) top 15px center  no-repeat;
+    display: block;
+    height: 75px;
+    overflow: hidden;
+    text-indent: 100%;
+    width: 50px;
+}
+
+.main-header .logo {
+    height: 77px;
+}
+
+.main-header .sidebar-toggle {
+    padding: 28px 15px 29px 15px;
+}
+
+.navbar-nav > li > a {
+    padding-top: 27px;
+    padding-bottom: 30px;
+}
+
+.main-sidebar, .left-side {
+    padding-top: 77px;
+}
